@@ -63,8 +63,8 @@ main h3 {
 }
 
 main .container {
-  width: 330px;
-  height: 396px;
+  width: 80vw;
+  height: 44vh;
   padding: 8px 16px;
   background-color: #fff;
   border-radius: 8px;
