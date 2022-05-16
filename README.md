@@ -1,4 +1,4 @@
-# D7---Buscador
+# DESAFIO 7 Buscador de passagens
 Projeto de uma pagina mobile da Buser desenvolvida durante estudos de HTML e CSS
 
 PREVIEW:
